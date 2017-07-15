@@ -1,1 +1,2 @@
 branch text file for merge testing
+-change 3 (from master branch)
