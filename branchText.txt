@@ -2,3 +2,4 @@ branch text file for merge testing
 -change 3 (from master branch)
 -change 1
 -change 2
+-change 4
